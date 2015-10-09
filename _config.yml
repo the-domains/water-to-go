@@ -1,6 +1,6 @@
 name: Water to GO
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.30556
 typography_spectrum: 0.56444
 title: Water to GO
 cta:
@@ -23,9 +23,9 @@ color:
     - '#bbb5c1'
     - '#0d1e25'
   brandStrength: 0.5
-  lightness: 0.75
-  saturation: 0.375
-  rhythmicContrast: 0.25
+  lightness: 0.875
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose:
   - name: engagement
     item: null
