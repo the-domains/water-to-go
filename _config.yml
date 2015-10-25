@@ -1,20 +1,4 @@
-name: Water to GO
-favicon: null
-layout_spectrum: 0.30556
-typography_spectrum: 1
-title: Water to GO
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#2e3f47'
@@ -22,11 +6,14 @@ color:
     - '#e9ddeb'
     - '#bbb5c1'
     - '#0d1e25'
-  brandStrength: 0.5
-  lightness: 0.875
-  saturation: 0.5625
-  rhythmicContrast: 0.75
+  brandStrength: 0.753378
+  lightness: 0.528716
+  rhythmicContrast: 0.278716
+  saturation: 0.317567
+cta: {}
+layout_spectrum: 0.30556
+name: Water to GO
+opengraph: {}
 purpose:
   - name: engagement
-    item: null
-    url: null
+typography_spectrum: 1
