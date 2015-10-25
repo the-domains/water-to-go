@@ -1,19 +1,19 @@
 analytics: {}
 color:
   brandColors:
-    - '#2e3f47'
-    - '#626b74'
-    - '#e9ddeb'
-    - '#bbb5c1'
-    - '#0d1e25'
-  brandStrength: 0.753378
-  lightness: 0.528716
-  rhythmicContrast: 0.278716
-  saturation: 0.317567
+    - '#E0E0C8'
+    - '#301010'
+    - '#606890'
+    - '#B03810'
+    - '#000000'
+  brandStrength: 0.5
+  lightness: 0.875
+  rhythmicContrast: 0.75
+  saturation: 0.5625
 cta: {}
-layout_spectrum: 0.30556
+layout_spectrum: 0.773648
 name: Water to GO
 opengraph: {}
 purpose:
   - name: engagement
-typography_spectrum: 1
+typography_spectrum: 0.236486
